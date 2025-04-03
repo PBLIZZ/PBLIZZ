@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @PBLIZZ
-- 👀 I’m interested in making life easier for myself. I would love to be able to automate email summaries from different newsletters into one nightly read. 
-- 🌱 I’m currently learning spanish and i have paid for a course on chatgpt, another on innovating with ai, spanish and how to become an amazon seller. the two ai course touch on make and zapier but i still dont really understand it.  I'm not very techie.
-- 💞️ I’m looking to collaborate on anything i can do to help. I am a total newbie so i dont know what i ccan do yet
-- 📫 How to reach me you can send me a whatsapp on 34652150947 with GitHub in the message so i know where you got my number
+# Hey, I’m @PBLIZZ 👋
 
-<!---
-PBLIZZ/PBLIZZ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🛠️ Vibe coding my way through a wellness-focused CRM for yoga teachers & massage therapists.  
+🌿 Goal: free, open-source, and actually useful.  
+🚧 Learning in public — expect messy commits, half-built tools, and aha! moments.
+
+✨ Mini tools almost ready:
+- Client tracker prototype
+- Booking reminder system (email + WhatsApp)
+- Basic calendar view (WIP)
+
+🧘‍♂️ Why? I’m a wellness entrepreneur rebuilding from scratch, blending tech with the real needs of practitioners like me. I’m not a dev (yet), but I *am* committed.
+
+🧠 Looking for:
+- Mentors who’ve built open-source SaaS / tools
+- Wellness pros who want to test tools early
+- Dev buddies into no-code/low-code/AI stuff
+
+🌍 Based in Barcelona. Currently building my site to host everything.
+
+📬 DM me here or drop a ping on [LinkedIn](https://www.linkedin.com/in/peterblizzard). Open to collab, feedback, and learning from anyone kind enough to share.
+
+---
+
+🌌 "Build what you wish existed. Share what you’re learning. Keep it human."
