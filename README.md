@@ -124,7 +124,7 @@ That is where properly configured AI can become useful: not as a gimmick, but as
 
 
 ## AKA
-🌪️ Jaime Tormenta — “Blizzard,” in Spanish
+🌪️ Jamie Tormenta — “Blizzard,” in Spanish
 
 
 ## LETS TALK
